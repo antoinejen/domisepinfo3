@@ -1,0 +1,102 @@
+
+.bleutext{ color: #336699; }
+
+.Bordure{
+     
+    border: 3px  #708090 solid ;
+    padding:7px;
+    padding-left: 15px;
+    margin-left: 20px;
+    margin-right: 5px,
+}
+.bordarr {list-style: none ;
+    background: ;
+    padding: 15px;
+    margin-right: 10px;
+    color: #fff ; 
+   }
+table{border-collapse: collapse;
+    
+}
+
+#cadre {background-color: #9274ac ;color: white;margin: auto;}
+
+.centretable{ text-align: center;}
+
+#conteneur{display: flex;}
+
+.flleft{float: left;}
+
+.flright {float: right;}
+ 
+
+.li_header{
+    list-style: none ;
+    background: #708090;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    list-style-position:inside;
+    list-style-image: none;
+    border: 1px solid white;
+    font-family: }
+
+
+.nounderline 
+{ 
+    text-decoration:none; 
+    color : #FFF;
+    border-radius: 3px #FFF solid;
+} 
+#page{width: 900px;
+    margin: auto;
+    font-family: Arial;
+    height: 1200px;
+    }
+.police18{
+    font-size: 18px;
+}
+.greybg{
+    width: auto;
+    padding-left: 20px;
+    background-color:#708090;
+    margin-top: 10px;
+    padding-top: 3px;
+    margin-bottom:10px;
+    padding-bottom: 5px;}
+
+.sec {width:600px; 
+    border: 3px #9274ac solid ;
+    padding:12px;
+    padding-left: 15px;
+    margin-left: 10px} 
+.sec2{
+    width: 850px;
+    border: 3px #9274ac solid ;
+    padding-left: 15px; 
+    margin: auto;
+    padding: 15px;
+
+}
+table {
+    border-collapse: collapse;
+}
+
+td{
+    border: collapse;
+    padding: 5px;
+}
+
+
+
+.white{
+    color: white;
+    margin-left: 40px;
+    padding-top: 30px;}
+
+
+.greytxt{color: #708090;}
+.whitetxt{color: white;}
+
+
