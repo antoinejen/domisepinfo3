@@ -12,6 +12,7 @@ create table home (home_id char(4) primary key,
 create table users (user_id char(4) primary key,
 		    home_id char(4),
                     CONSTRAINT users_fk1 foreign key (home_id)references home(home_id));
+		    user_login varchar(50),
                     user_name varchar(50),
                     user_password int(10),
                     user_email varchar(200),
