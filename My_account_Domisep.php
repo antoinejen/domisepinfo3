@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,37 +5,18 @@
       <link rel = "stylesheet" href = "Domisep.css"/>
         <title>Domisep - My account</title> 
     <head>
-  
     <div id = "page"> 
     <?php include "header.php";?>
-
     <body>
-        
         <section>
             <div id = "conteneur">
-            
-        
-                
-           
-                
-          
             <aside class="Bordure">
-                <?php include "mdp.php"?>
+                <?php include "login.php"?>
             </aside>
                 </div>
             </section>
-        
-     
     </body>
-            
     <?php include "footer.php";?>
-       
     </div>
-    
-         
-
-    
         </main>
-        
-        
 </html>
