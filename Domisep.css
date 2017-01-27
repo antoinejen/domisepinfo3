@@ -1,0 +1,181 @@
+header
+{ 
+    height: 120px;
+}
+
+.white
+{ 
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+h1{
+    font-family: serif;
+    font-size: 45px;
+    color: #444;
+    float: left;
+    margin-top: 32px;
+ }
+    
+.point 
+{ 
+    color: orange;
+}
+
+/*HEADER MENU*/
+
+header nav
+{ 
+    float: right;
+    margin-top: 50px;
+    padding-right: 55px;
+}
+
+header nav ul li 
+{
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+header nav ul li a
+{ 
+    text-decoration: none;
+    color: #444;
+}
+
+a:hover
+{ 
+    color: orange;
+}
+.bleutext{ color: #336699; }
+
+.Bordure{
+     
+    border: 3px  #708090 solid ;
+    padding:7px;
+    padding-left: 15px;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.bordarr {list-style: none ;
+    background: center;
+    padding: 15px;
+    margin-right: 10px;
+    color: #fff ; 
+   }
+table{border-collapse: collapse;
+    
+}
+
+#cadre {background-color: #FFF ;
+    
+    margin: auto;
+    : }
+
+.centretable{ text-align: center;}
+
+#conteneur{display: flex;}
+
+#conteneur {display: flex;}
+
+.flleft{float: left;}
+
+.flright {float: right;}
+ 
+
+.li_header{
+    list-style: none ;
+    background: #708090;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    list-style-position:inside;
+    list-style-image: none;
+    border: 1px solid white;
+    }
+
+
+.nounderline 
+{ 
+    text-decoration:none; 
+    color : #FFF;
+    border-radius: 3px;
+}
+#page{width: 900px;
+    margin: auto;
+    font-family: Arial;
+    height: 1200px;
+    }
+.police18{
+    font-size: 18px;
+}
+.greybg{
+    width: auto;
+    padding-left: 20px;
+    background-color:#708090;
+    margin-top: 10px;
+    padding-top: 3px;
+    margin-bottom:10px;
+    padding-bottom: 5px;}
+
+.sec {width:600px; 
+    border: 3px #9274ac solid ;
+    padding:12px;
+    padding-left: 15px;
+    margin-left: 10px} 
+.sec2{
+    width: 850px;
+    border: 3px #9274ac solid ;
+    padding-left: 15px; 
+    margin: auto;
+    padding: 15px;
+
+}
+table {
+    border-collapse: collapse;
+    display: flex;
+}
+
+td{
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+
+
+.white{
+    color: white;
+    margin-left: 40px;
+    padding-top: 30px;}
+
+
+.greytxt{color: #708090;}
+.whitetxt{color: white;}
+
+
+
+/*actuator*/
+
+input[type="range"] {
+    position: relative;
+    margin-left: 1em;
+}
+input[type="range"]:after,
+input[type="range"]:before {
+    position: absolute;
+    top: 1em;
+    color: #aaa;
+}
+input[type="range"]:before {
+    left:0em;
+    content: attr(min);
+}
+input[type="range"]:after {
+    right: 0em;
+    content: attr(max);
+
+}
