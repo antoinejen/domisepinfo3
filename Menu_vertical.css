@@ -7,8 +7,12 @@
   
 }
 #menu-vertical li {
+<<<<<<< HEAD
     font-family: Arial;
     color: #708090;
+=======
+    font-family: Arial color: #708090;
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
     
     position: relative;
     background: #fff;
@@ -20,11 +24,18 @@
     list-style-position:inside;
     list-style-image: none;
     border: 2px #708090 solid;
+<<<<<<< HEAD
     display: inline-block;
     
 }
 #menu-vertical a {
   display:inline-block;
+=======
+    
+}
+#menu-vertical a {
+  display:block;
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
   text-decoration: none;
   color: #000;
 }
@@ -36,5 +47,9 @@
     
   position: absolute;
   top: 0;
+<<<<<<< HEAD
   left: 90px;
+=======
+  left: 56px;
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header
 { 
     height: 120px;
@@ -50,6 +51,9 @@ a:hover
 { 
     color: orange;
 }
+=======
+
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
 .bleutext{ color: #336699; }
 
 .Bordure{
@@ -58,10 +62,17 @@ a:hover
     padding:7px;
     padding-left: 15px;
     margin-left: 20px;
+<<<<<<< HEAD
     margin-right: 5px;
 }
 .bordarr {list-style: none ;
     background: center;
+=======
+    margin-right: 5px,
+}
+.bordarr {list-style: none ;
+    background: ;
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
     padding: 15px;
     margin-right: 10px;
     color: #fff ; 
@@ -70,17 +81,24 @@ table{border-collapse: collapse;
     
 }
 
+<<<<<<< HEAD
 #cadre {background-color: #FFF ;
     
     margin: auto;
     : }
+=======
+#cadre {background-color: #9274ac ;color: white;margin: auto;}
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
 
 .centretable{ text-align: center;}
 
 #conteneur{display: flex;}
 
+<<<<<<< HEAD
 #conteneur {display: flex;}
 
+=======
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
 .flleft{float: left;}
 
 .flright {float: right;}
@@ -96,15 +114,24 @@ table{border-collapse: collapse;
     list-style-position:inside;
     list-style-image: none;
     border: 1px solid white;
+<<<<<<< HEAD
     }
+=======
+    font-family: }
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
 
 
 .nounderline 
 { 
     text-decoration:none; 
     color : #FFF;
+<<<<<<< HEAD
     border-radius: 3px;
 }
+=======
+    border-radius: 3px #FFF solid;
+} 
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
 #page{width: 900px;
     margin: auto;
     font-family: Arial;
@@ -137,11 +164,18 @@ table{border-collapse: collapse;
 }
 table {
     border-collapse: collapse;
+<<<<<<< HEAD
     display: flex;
 }
 
 td{
     border-collapse: collapse;
+=======
+}
+
+td{
+    border: collapse;
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
     padding: 5px;
 }
 
@@ -157,6 +191,7 @@ td{
 .whitetxt{color: white;}
 
 
+<<<<<<< HEAD
 
 /*actuator*/
 
@@ -179,3 +214,5 @@ input[type="range"]:after {
     content: attr(max);
 
 }
+=======
+>>>>>>> 1628a96961244f7bb2348e49a4b0114fd10efc24
